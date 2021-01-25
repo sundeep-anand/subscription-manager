@@ -7,7 +7,7 @@ pipeline {
         stage('Python 2 stylish') {
           agent { label 'subman-centos7' }
           steps {
-            sh readFile(file: 'jenkins/python2-stylish-tests.sh')
+            sh readFile(file: 'jenkins/stylish-tests.sh')
           }
         }
         stage('Fedora tito') {
