@@ -31,6 +31,12 @@ msgid "ambiguous option: %s (%s?)"
 msgstr "曖昧なオプション: %s (%s?)"
 
 # translation auto-copied from project subscription-manager, version 1.9.X, document keys
+#: /usr/lib64/python3.8/optparse.py:157
+#, python-format
+msgid "the brand new string"
+msgstr ""
+
+# translation auto-copied from project subscription-manager, version 1.9.X, document keys
 #: /usr/lib64/python3.8/optparse.py:381
 #: src/subscription_manager/i18n_optparse.py:130
 #, python-format
