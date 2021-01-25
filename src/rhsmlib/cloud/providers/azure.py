@@ -14,6 +14,9 @@
 # in this software or its documentation.
 #
 
+# TODO: test Python3 syntax using flake8
+# flake8: noqa
+
 """
 This is module implementing detector and metadata collector of virtual machine running on Azure
 """
